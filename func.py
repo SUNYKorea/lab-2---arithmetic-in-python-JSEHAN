@@ -6,10 +6,17 @@ def add(x, y):
 #       neg() should return the negation of the given number, and sqrt() should
 #       return the square root of the given number. 
     
-
+# the function sub(x,y) explanations ...
+# ewqejqwkenqw
 def sub(x, y):
     return x - y
 
+''' ewqeqwwqeeqw
+eqweweq
+eweqweqw
+
+
+'''
 def div(x, y):
     return x / y
 
