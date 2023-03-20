@@ -36,9 +36,6 @@ c = 1
 
 # quadratic equation ax**2 + bx + c = 0, where a, b, c are real numbers and a =/= 0
 # (-b +/- (b**2 - 4 * a * c) ** 0.5) / (2 * a)
-import cmath
-d = c^2 - 4 * a * c
-print: cmath
 denom = mult(2,a)
 nom1 = add(neg(b), sqrt(sub(exp(b,2), (mult(mult(4, a),c)))))
 nom2 = sub(neg(b), sqrt(sub(exp(b,2), (mult(mult(4, a),c)))))
